@@ -1,16 +1,17 @@
 pico-8 cartridge // http://www.pico-8.com
 version 16
 __lua__
---advanced micro platformer
---@matthughson
+--Written by Joshua Stimpert https://secretbunta.itch.io/ -  https://github.com/jStimpert0430;
 
---if you make a game with this
---starter kit, please consider
---linking back to the bbs post
---for this cart, so that others
---can learn from it too!
---enjoy!
---@matthughson
+--Project based upon --
+--advanced micro platformer
+--by @matthughson
+
+--and
+
+--Advanced Particle library
+-- by viza https://www.lexaloffle.com/bbs/?tid=1920
+
 
 --log
 printh("\n\n-------\n-start-\n-------")
