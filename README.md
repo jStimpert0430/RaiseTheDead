@@ -2,10 +2,9 @@
 
 Raise The Dead is an Action Platformer for the Pico-8 in which the player must help a recently resurrected skeleton escape from his crypt. Hop on the magic skulls floating throughout the crypt to find the key to each floor's door!
 
-![Raise The Dead](gameplay1.gif)
+![Raise The Dead](gameplay4.gif)
 ![Raise The Dead](gameplay2.gif)
 ![Raise The Dead](gameplay3.gif)
-![Raise The Dead](gameplay4.gif)
 
 ## Why
 
