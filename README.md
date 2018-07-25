@@ -6,6 +6,8 @@ Raise The Dead is an Action Platformer for the Pico-8 in which the player must h
 ![Raise The Dead](gameplay2.gif)
 ![Raise The Dead](gameplay3.gif)
 
+Main project page hosted at -- https://secretbunta.itch.io/raise-the-dead
+
 ## Why
 
 The purpose in developing this game was to both to learn how to make pico-8 software and as an attempt to design a game around a single gimmick; In this case, hopping off of enemy heads.
