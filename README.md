@@ -53,8 +53,6 @@ open .p8 file in the pico-8 environment and play!
 
 * Currently when transitioning from level 4 to level 5; you'll take a death no matter what. This is caused by the code I used to check out of bounds collision; I have to think of a way to tweak it to accommodate how my maps are arranged and how I move from level to level.
 
-## Developer notes
-This is very much a prototype application, and probably not one ment for any serious deployment; I'm not sure if I'll ever personally get back to this project as when I actually put the use to practice, it wasn't that much more engaging to use than just clicking an icon on the desktop was; That said,all critical functionality required for this system to function is in place and even in this form it's still pretty usable once the device is built. Feel free to take this, update it, modify it, or use any part of it in your own programs. The Arduino Scanner program only sends the UID of the card in hex format over the serial connection, this could easily be reporposed for any other application requiring a unique number over the com port.
 
 ## Author
 
