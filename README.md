@@ -35,6 +35,16 @@ open .p8 file in the pico-8 environment and play!
 
 ## Version History
 
+0.1 update notes
+* Screenshake added! The code for this had been sitting there unused for a little while, I had to make changes to the camera system implemented to get everything working. Now when you stomp on a skull, the screen will shake
+* Fixed fall through wood floors- Previously, unless you kept holding the down arrow, you would be placed back to the top of the wood platform; additionally, if you were holding down when you collided with one you would have just fallen though. Now you will fall though the floor on button press and at least briefly collide with each wooden platform, even if you're holding down.
+* Added key gate blocks (trying idea)- Added blocks that block the player for reaching the door unless the player is holding the key. When the player doesn't have they key these blocks are solid and able to be collided against, otherwise the player will fall though them. I like this idea because it gives me an additional gameplay piece to build levels around. Added a few levels in this build around the mechanic; so tell me what you think.
+* Re-minimized graphics - Deleted a lot of detail on tileset in an attempt to improve readability of the gameworld. This may change in future updates, but for now I'm pretty happy with it.
+* Changed gameplay button to O instead of X based of suggestion - Multiple people suggested I make this switch as it is the pico-8 standard.
+* Additional UI tweaks/cleanup/iteration
+* Added Gamepad disclaimer
+* Added floor 22 and 21
+
 0.0.2 update notes
 
 * Added transition mechanics between death and respawn; Won't respawn instantly not and instead will see a message and a prompt to press the X key.
