@@ -22,7 +22,6 @@ The purpose in developing this game was to both to learn how to make pico-8 soft
 
 * Special Technique - Hold the jump button when hopping off of enemies to jump higher
 
-Note: Currently there is no door graphic for locked doors, I haven't decided if I want to make a locked door sprites, or blocks that gate off the door to the next floor. For now, you need to be holding the key to trigger the door to the next level.
 
 ## Getting Started
 
